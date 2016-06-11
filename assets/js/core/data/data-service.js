@@ -46,6 +46,7 @@ angular.module('app.core.data.service', [
        */
       self.availableChannels = [
         'stable',
+        'staging',
         'rc',
         'beta',
         'alpha'
