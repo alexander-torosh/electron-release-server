@@ -8,6 +8,7 @@ var ChannelService = {
   // Available channels ordered by desc. stability
   availableChannels: [
     'stable',
+    'staging',
     'rc',
     'beta',
     'alpha'
